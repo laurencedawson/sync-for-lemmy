@@ -2,10 +2,9 @@
 
 To enable incognito tabs you must set two flags in chrome:
 
-[chrome://flags/#cct-incognito](chrome://flags/#cct-incognito)
+chrome://flags/#cct-incognito
 
-[chrome://flags/#cct-incognito-available-to-third-party](chrome://flags/#cct-incognito-available-to-third-party)
-
+chrome://flags/#cct-incognito-available-to-third-party
 
 -----
 
